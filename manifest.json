@@ -1,0 +1,19 @@
+{
+  "name": "Spelling Bee but French",
+  "short_name": "Spelling Bee FR",
+  "description": "Le Spelling Bee du NYT, mais en français. Une grille par jour, 100 % hors ligne.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#f7da21",
+  "icons": [
+    {
+      "src": "icone.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

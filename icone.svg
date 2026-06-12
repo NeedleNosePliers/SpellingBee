@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f7da21"/>
+  <polygon points="256,96 388,176 388,336 256,416 124,336 124,176"
+           fill="#1a1a1a"/>
+  <text x="256" y="312" font-family="Arial, sans-serif" font-size="160"
+        font-weight="bold" fill="#f7da21" text-anchor="middle">B</text>
+</svg>
